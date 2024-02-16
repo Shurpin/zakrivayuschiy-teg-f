@@ -7,22 +7,16 @@
 }
 
 @font-face {
-  font-display: swap;
   font-family: 'Inter-Variable';
   src:
     local('Inter-Variable'),
     url('./Inter-Variable.woff2') format('woff2 supports variations'),
         url('./Inter-Variable.woff2') format('woff2-variations');
-        font-weight: 400 700;
-}
-
-@font-face {
+        font-weight: 400 785;
   font-display: swap;
-  font-family: 'Inter-Variable';
-  src:
-    local('Inter-Variable'),
-    url('./Inter-Variable.woff2') format('woff2 supports variations'),
-        url('./Inter-Variable.woff2') format('woff2-variations');
-        font-weight: 465 785;
 }
 
+.page,
+.content__title {
+    font-variation-settings: 'wdth' var(--main-widt), 'wgth' var(--title-width);
+} 
