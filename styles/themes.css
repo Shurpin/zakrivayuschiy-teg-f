@@ -9,8 +9,8 @@
   --bg-color-main: rgba(255, 255, 255, 1);
   --main-font: 'Inter-Variable';
   --main-font-acent: 'Press Start 2P';
-  --main-width: 400;
-  --title-width: 700;
+  --main-wght: 400;
+  --title-wght: 700;
   --color: #000000;
   --color-accent: rgba(0 0 0 / 60%);
   --color-lable: rgb(255 255 255 / 50%); 
@@ -27,8 +27,8 @@
   --bg-color-main: rgba(0, 0, 0, 1);
   --main-font: 'Inter-Variable';
   --main-font-acent: 'Press Start 2P';
-  --main-width: 465;
-  --title-width: 785;
+  --main-wght: 465;
+  --title-wght: 785;
   --color: #00CC14;
   --color-accent: rgba(0 204 20 / 60%);
   --color-lable: rgb(0 0 0 / 50%); 
@@ -46,8 +46,8 @@
     --bg-color-main: rgba(0, 0, 0, 1);
     --main-font: 'Inter-Variable';
     --main-font-acent: 'Press Start 2P';
-    --main-width: 465;
-    --title-width: 785;
+    --main-wght: 465;
+    --title-wght: 785;
     --color: #00CC14;
     --color-accent: rgba(0 204 20 / 60%);
     --color-lable: rgb(0 0 0 / 50%); 

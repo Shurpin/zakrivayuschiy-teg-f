@@ -18,7 +18,7 @@
   justify-items: center;
   color: var(--color, #000000);
   font-family: var(--main-font, sans-serif);
-  font-variation-settings: 'wgth' var(--main-width);
+  font-variation-settings: 'wght' var(--main-wght);
   font-weight: var(--main-width, 400);
   font-size: 18px;
   background-color: var(--bg-color-main, rgba(255, 255, 255, 1));
@@ -156,7 +156,7 @@ button:disabled {
   padding-inline: 11px;
   padding-block-start: 6px;
   padding-block-end: 4px;
-  font-variation-settings: 'wgth' var(--title-width);
+  font-variation-settings: 'wght' var(--title-wght);
   font-weight: var(--title-width, 700);
   font-size: 18px;
 }
