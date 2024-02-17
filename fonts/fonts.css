@@ -15,8 +15,3 @@
         font-weight: 400 785;
   font-display: swap;
 }
-
-.page,
-.content__title {
-    font-variation-settings: 'wdth' var(--main-widt), 'wgth' var(--title-width);
-} 

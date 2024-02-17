@@ -52,7 +52,7 @@
     --color-accent: rgba(0 204 20 / 60%);
     --color-lable: rgb(0 0 0 / 50%); 
     --color-heart: opacity: 0;
-    --color-button: rgba(0, 0, 0, 1);
+    --color-button: #00CC14;
     --page-bg-gradient:  
     repeating-linear-gradient(#000 0 2px, transparent 2px 4px),
     repeating-linear-gradient(90deg, #000 0 2px, transparent 2px 4px),
